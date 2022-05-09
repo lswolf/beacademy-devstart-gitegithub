@@ -1,5 +1,5 @@
 
-# git e github     
+# Git e Github     
 
 algo para mostar os comandos mais usados no git e no github, Feito para o Devstart da Paylivre via BeAcademy!
 
@@ -7,7 +7,7 @@ algo para mostar os comandos mais usados no git e no github, Feito para o Devsta
 
 ## Authors
 
-- [@lswolf](https://www.github.com/lswolf)
+- [@lswolf](https://www.github.com/lswolf) Lucas da Silva   
 
 
 ## Funções
