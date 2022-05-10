@@ -1,7 +1,7 @@
 
 # Git e Github     
 
-algo para mostar os comandos mais usados no Git e no Github, Feito para o Devstart da Paylivre via BeAcademy!
+Projeto para mostar os comandos mais usados no Git e no Github, Feito para o Devstart da Paylivre via BeAcademy!
 
 
 
