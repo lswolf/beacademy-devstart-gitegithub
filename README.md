@@ -29,4 +29,6 @@ algo para mostar os comandos mais usados no Git e no Github, Feito para o Devsta
 - git diff (mostra as diferenças entre commits)
 - git revert (desfaz o commit, pode usar HEAD para desfazer o ultimo ou tem de especificar)
 - git log (mostra os ultimos commits use --oneline para ficar facil de ler)
+- git branch (lista as branchs, com um nome cria uma branch, com "-d nome" deleta uma branch)
+
 
