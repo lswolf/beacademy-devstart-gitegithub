@@ -1,7 +1,7 @@
 
 # Git e Github     
 
-algo para mostar os comandos mais usados no git e no github, Feito para o Devstart da Paylivre via BeAcademy!
+algo para mostar os comandos mais usados no Git e no Github, Feito para o Devstart da Paylivre via BeAcademy!
 
 
 
@@ -27,5 +27,6 @@ algo para mostar os comandos mais usados no git e no github, Feito para o Devsta
 - git rm (deleta arquivos do projeto)
 - git status (mostra o status)
 - git diff (mostra as diferenças entre commits)
-
+- git revert (desfaz o commit, pode usar HEAD para desfazer o ultimo ou tem de especificar)
+- git log (mostra os ultimos commits use --oneline para ficar facil de ler)
 
