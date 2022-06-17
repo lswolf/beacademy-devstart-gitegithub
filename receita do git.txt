@@ -1,0 +1,11 @@
+receita
+
+
+branch atualizada
+
+1 - git clone ou git pull (git pull se for um projeto em andamento)
+2 - git checkout -b nome_branch (criar um branch para trabalhar)
+3 - trabalhar
+4 - git add . (caso seja enviado todos os arquivos)
+5 - git commit -m "Mensagem do commit"
+6 - git push (caso seja exista um repostorio remoto)
